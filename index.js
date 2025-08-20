@@ -6,7 +6,7 @@
 
 
 // demo/typescript/index.ts
-import * as H from 'https://github.com/vladmandic/human/blob/main/dist/human.esm.js'; // equivalent of @vladmandic/Human
+import * as H from "./human.esm.js";
 
 var width = 1920;
 var humanConfig = {
