@@ -7,7 +7,7 @@
  * @license MIT
  */
 
-import * as H from 'https://github.com/vladmandic/human/blob/main/dist/human.esm.js'; // equivalent of @vladmandic/Human
+import * as H from "./human.esm.js";
 
 const width = 1920; // used by webcam config as well as human maximum resultion // can be anything, but resolutions higher than 4k will disable internal optimizations
 
